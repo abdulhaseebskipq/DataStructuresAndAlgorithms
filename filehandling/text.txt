@@ -1,0 +1,5 @@
+haseeb,3069831490,haseeb2018@namal.edu.pk,
+kiran,1234,kiran2019,
+papa,45678,papa2019,
+mani,1234,mani@,
+haseeb,20129,haseeb2018@namal.edu.pk,
